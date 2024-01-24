@@ -9,7 +9,8 @@
   "homepage": "https://coda.io/p/28093",
   "scripts": {
     "test": "npx coda execute pack.ts Firebase collection",
-    "pack-create": "npx coda create pack.ts --name 'Google Firebase' --description 'Integrate document tables with Google Firebase collections.'"
+    "pack-create": "npx coda create pack.ts --name 'Google Firebase' --description 'Integrate document tables with Google Firebase collections.'",
+    "pack-update": "npx coda upload pack.ts"
   },
   "keywords": [ "coda", "coda-pack" ],
   "dependencies": {
