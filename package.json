@@ -1,9 +1,10 @@
 {
   "name": "firebase-pack",
   "author": "Chance Snow <apps@chancesnow.me>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "version": "0.1.0",
   "description": "Integrate document tables with Firebase collections",
+  "private": true,
   "main": "pack.js",
   "scripts": {
     "test": "true"
