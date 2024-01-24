@@ -1,0 +1,17 @@
+{
+  "name": "firebase-pack",
+  "author": "Chance Snow <apps@chancesnow.me>",
+  "license": "UNLICENSED",
+  "version": "0.1.0",
+  "description": "Integrate document tables with Firebase collections",
+  "main": "pack.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [ "coda", "coda-pack" ],
+  "dependencies": {
+    "@codahq/packs-sdk": "^1.7.2"
+  },
+  "devDependencies": {}
+}
+
