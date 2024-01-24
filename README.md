@@ -1,4 +1,5 @@
 # Firebase Coda Pack
+[![Firebase Pack CI](https://github.com/snow-developments/firebase-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/snow-developments/firebase-pack/actions/workflows/ci.yml)
 
 Integrate [Coda](https://coda.io) document tables with Google [Firebase](https://firebase.google.com) collections.
 
