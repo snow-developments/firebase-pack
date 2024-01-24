@@ -3,11 +3,13 @@
   "author": "Chance Snow <apps@chancesnow.me>",
   "license": "MIT",
   "version": "0.1.0",
-  "description": "Integrate document tables with Firebase collections",
+  "description": "Integrate document tables with Google Firebase collections",
   "private": true,
   "main": "pack.js",
+  "homepage": "https://coda.io/p/28093",
   "scripts": {
-    "test": "true"
+    "test": "npx coda execute pack.ts Firebase collection",
+    "pack-create": "npx coda create pack.ts --name 'Google Firebase' --description 'Integrate document tables with Google Firebase collections.'"
   },
   "keywords": [ "coda", "coda-pack" ],
   "dependencies": {
